@@ -1,0 +1,14 @@
+# Fichiers compilés Java
+*.class
+
+# Fichiers système macOS
+.DS_Store
+
+# Répertoires de build
+bin/
+out/
+
+# Config IDE
+.vscode/
+.idea/
+*.iml
